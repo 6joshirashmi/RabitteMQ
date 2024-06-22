@@ -1,0 +1,17 @@
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\bin\Debug\net8.0\Receive.exe
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\bin\Debug\net8.0\Receive.deps.json
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\bin\Debug\net8.0\Receive.runtimeconfig.json
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\bin\Debug\net8.0\Receive.dll
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\bin\Debug\net8.0\Receive.pdb
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.csproj.AssemblyReference.cache
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.AssemblyInfoInputs.cache
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.AssemblyInfo.cs
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.csproj.CoreCompileInputs.cache
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.csproj.Up2Date
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.dll
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\refint\Receive.dll
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.pdb
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
+C:\Developer\!-interview-2024\core-coding\RabbitMQ\Receive\obj\Debug\net8.0\ref\Receive.dll
